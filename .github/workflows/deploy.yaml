@@ -13,3 +13,4 @@ jobs:
       - run: echo "Corremos migraciones"
       - run: echo "Generar binario"
       - run: echo "Publicar version"
+      - run: echo "Publicar version en master"
